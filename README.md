@@ -1,1 +1,1 @@
-# WearableDevice-Arduino-2019
+# Wearable Device - Arduino - C - 2019
